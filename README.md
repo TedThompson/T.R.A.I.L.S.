@@ -1,8 +1,6 @@
 # T.R.A.I.L.S.
-2 Kerbal Pod for Kerbal Space Program
 
-
-FROM: T-M-I (TRAILS MANUFACTURING INCORPORATED)
+<pre>FROM: T-M-I (TRAILS MANUFACTURING INCORPORATED)
 
 TO: Director, KSC
 
@@ -29,3 +27,4 @@ M-O7N "Medici" Service Module - A tapered fuel tank assembly carrying Liquid Fue
 M-5HA Radial Control Thruster - 3 axis RCS assembly.  Intended for use with the Medici service module as the Medici has forward translation thrusters built in.
 
 Also included are 3 structural adapters allowing mating of these parts to both 2 1/2 meter and 1 1/4 meter fuselages, as well as appropriate decouplers from O.M.B. that have been resized to match our 1 1/2 meter (150cm) and 1 7/8 meter (187.5cm) parts.
+</pre>
