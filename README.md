@@ -1,13 +1,12 @@
 # T.R.A.I.L.S. Plus
+![TMI Logo](http://i.imgur.com/Y7iDsEr.png)
 ```
 FROM: T-M-I (TRAILS MANUFACTURING INCORPORATED)
 
 TO: Director, KSC
 
 SUBJECT: Advanced Mk1 Capsule
-```
-![TMI Logo](http://i.imgur.com/Y7iDsEr.png)
-```
+
 The Transport, Rendezvous, And Interplanetary Logistics Spacecraft is a 2 Kerbal pod designed as a follow up 
 to the widely successful Mk1 Pod from Kerlington Model Rockets and Paper Products Inc. In the interest of 
 rapid developement of an advanced capsule able to carry a larger crew for a longer duration, a consortium has 
