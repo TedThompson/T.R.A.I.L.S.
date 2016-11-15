@@ -14,6 +14,8 @@ Kerman's Junkyard and Spacecraft Parts Co.
 
 The proposed collection of parts shall include:
 
+G Launch Escape System* - Escape tower rocket motor for pulling Big G type capsule asseblies to safety.
+
 M-63E "Vinci" Command Pod - A 2 Kerbal command pod capable of longer duration missions.
 
 M-KZR Heatshield - 1.5m heatshield for use with Vinci pod.
@@ -37,4 +39,6 @@ Medici has forward translation thrusters built in.
 Also included are 3 structural adapters allowing mating of these parts to both 2 1/2 meter and 1 1/4 meter 
 fuselages, as well as appropriate decouplers from O.M.B. that have been resized to match our 1 1/2 meter 
 (150cm) and 1 7/8 meter (187.5cm) parts.
+
+* for traditional 2 kerbal launches using only the vinci pod - Vangard Technologies ejection seats are to be used.
 ```
