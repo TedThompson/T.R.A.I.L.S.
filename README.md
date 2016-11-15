@@ -6,6 +6,8 @@ TO: Director, KSC
 
 SUBJECT: Advanced Mk1 Capsule
 
+![Alt Text](http://i.imgur.com/fKig7lj.jpg "desc")
+
 The Transport, Rendezvous, And Interplanetary Logistics Spacecraft is a 2 Kerbal pod designed as a follow up 
 to the widely successful Mk1 Pod from Kerlington Model Rockets and Paper Products Inc. In the interest of 
 rapid developement of an advanced capsule able to carry a larger crew for a longer duration, a consortium has 
