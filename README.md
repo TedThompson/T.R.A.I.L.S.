@@ -27,7 +27,7 @@ The proposed collection of parts shall include:
 
 * **M-3VS "Botticelli" Crew Module** - Connecting Command pod, capable of independent operation or use with Vinci pod for larger crew capacity - possibly for transporting crew to/from proposed permanent space station.
 
-* **M-KZR Heatshield** - 1.875m heatshield for use with Botticelli pod.
+* **M-KZR Heatshield** - 2.5m heatshield for use with Botticelli pod.
 
 * **M-O7N "Medici" Service Module** - A tapered fuel tank assembly carrying Liquid Fuel, Oxidizer, Monopropellant, and forward translation RCS thrusters.
 
