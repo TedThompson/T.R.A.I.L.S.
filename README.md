@@ -1,6 +1,6 @@
 # T.R.A.I.L.S. Plus
 ![TMI Logo](http://i.imgur.com/Y7iDsEr.png)
-```
+
 FROM: T-M-I (TRAILS MANUFACTURING INCORPORATED)
 
 TO: Director, KSC
@@ -15,7 +15,7 @@ Kerman's Junkyard and Spacecraft Parts Co.
 
 The proposed collection of parts shall include:
 
-G Launch Escape System* - Escape tower rocket motor for pulling Big G type capsule asseblies to safety.
+G Launch Escape System\* - Escape tower rocket motor for pulling Big G type capsule asseblies to safety.
 
 M-63E "Vinci" Command Pod - A 2 Kerbal command pod capable of longer duration missions.
 
@@ -41,5 +41,5 @@ Also included are 3 structural adapters allowing mating of these parts to both 2
 fuselages, as well as appropriate decouplers from O.M.B. that have been resized to match our 1 1/2 meter 
 (150cm) and 1 7/8 meter (187.5cm) parts.
 
-* for traditional 2 kerbal launches using only the vinci pod - Vangard Technologies ejection seats are to be used.
-```
+\* for traditional 2 kerbal launches using only the vinci pod - Vangard Technologies ejection seats are to be used.
+
