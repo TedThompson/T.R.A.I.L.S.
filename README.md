@@ -14,3 +14,5 @@ been formed by Kerlington Model Rockets and Paper Products Inc., O.M.B. Demoliti
 Kerman's Junkyard and Spacecraft Parts Co.
 
 Consult the [Wiki](https://github.com/TedThompson/T.R.A.I.L.S./wiki) for detailed information on the included parts.
+
+![](http://i.imgur.com/aNOb2Ry.jpg)
