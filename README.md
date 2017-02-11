@@ -11,7 +11,7 @@ The Transport, Rendezvous, And Interplanetary Logistics Spacecraft is a 2 Kerbal
 to the widely successful Mk1 Pod from Kerlington Model Rockets and Paper Products Inc. In the interest of 
 rapid developement of an advanced capsule able to carry a larger crew for a longer duration, a consortium has 
 been formed by Kerlington Model Rockets and Paper Products Inc., O.M.B. Demolition Enterprises, and Jebediah 
-Kerman's Junkyard and Spacecraft Parts Co.
+Kerman's Junkyard and Spacecraft Parts Company.
 
 Consult the [Wiki](https://github.com/TedThompson/T.R.A.I.L.S./wiki) for detailed information on the included parts.
 
